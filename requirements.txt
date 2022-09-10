@@ -1,0 +1,4 @@
+fasttext
+gensim
+matplotlib
+pandas
